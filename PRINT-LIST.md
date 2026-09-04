@@ -5,6 +5,8 @@ Generated from `bom.csv` (43 distinct parts, **82 required pieces**, ~1 kg filam
 **STLs are not in this repo.** Download `LumenPnP-STLs-v4.1.0.zip` from the
 [v4.1.0 release](https://github.com/opulo-inc/lumenpnp/releases/tag/v4.1.0).
 
+**Progress: 4 / 82 required pieces printed.**
+
 ## Printer settings
 
 | Setting | Standard | Gantry parts |
@@ -66,8 +68,8 @@ Log anything printed off-spec here, so it can be reviewed before or during assem
 - [ ] `front-leg-extension` × 2
 - [ ] `blade12` × 2
 - [ ] `blade13` × 2
-- [ ] `front-left-leg` × 1
-- [ ] `front-right-leg` × 1
+- [x] `front-left-leg` × 1
+- [x] `front-right-leg` × 1
 - [ ] `nozzle-rack` × 1
 - [ ] `datum-board-mount` × 1
 - [ ] `bottom-camera-mount` × 1
